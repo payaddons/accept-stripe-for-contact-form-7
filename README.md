@@ -26,7 +26,7 @@ With stripe payment addons for Contact Form 7, you can create custom payment for
 * PCI-compliant payment processing.
 * Full integration with Stripe Link for faster repeat purchases. (Pro)
 
-[documentation](https://cf7-docs.payaddons.com/basics/contact-form-7-checkout-redirect)
+<a href="https://cf7-docs.payaddons.com/basics/contact-form-7-checkout-redirect">documentation</a>
 [online demo](https://payaddons.com/contact-form-7-stripe-redirect-demo/)
 
 🔁 Flexible Subscriptions (Pro)
