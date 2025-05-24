@@ -44,7 +44,7 @@ With stripe payment addons for Contact Form 7, you can create custom payment for
 * Custom subscription configurations
 * Real-time card validation
 
-[documentation](https://cf7-docs.payaddons.com/basics/contact-form-7-credit-card)
+<a href="https://cf7-docs.payaddons.com/basics/contact-form-7-credit-card">documentation</a>
 [online demo](https://payaddons.com/contact-form-7-stripe-credit-card-demo/)
 
 💳 Embedded Payment Elements (Pro)
